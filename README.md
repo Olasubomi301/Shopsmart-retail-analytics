@@ -6,6 +6,12 @@ This project was completed as part of the AnalystLab Africa Experience Lab Inter
 
 The project focuses on analysing the sales and operational data of ShopSmart Retail Ltd, a retail business operating across multiple stores in Nigeria. The analysis aims to help management understand sales performance, customer behaviour, product returns, and inventory levels to support informed business decisions.
 
+
+## Dashboard Preview
+
+![ShopSmart Retail Analytics Dashboard](dashboard-preview.png)
+
+
 ## 2. Project Objectives
 
 The objectives of this project were to:
