@@ -52,7 +52,6 @@ The analysis identified the Beauty category as the highest-revenue category in t
 
 The analysis also highlighted customers with the highest spending, a leading supplier, stores requiring inventory attention, and the need to investigate product returns, particularly within the Beauty category.
 
-**Note:** Final revenue figures should be reconciled across the analysis workbook, dashboard, and business report before submission.
 
 ## 6. Project Deliverables
 
