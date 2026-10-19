@@ -9,7 +9,7 @@ The project focuses on analysing the sales and operational data of ShopSmart Ret
 
 ## Dashboard Preview
 
-[ShopSmart Retail Analytics Dashboard](dashboard-preview.png)
+![ShopSmart Retail Analytics Dashboard](dashboard-preview.png)
 
 
 ## 2. Project Objectives
